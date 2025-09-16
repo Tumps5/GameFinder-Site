@@ -1,5 +1,5 @@
 // Client script (restored and cleaned)
-const backendURL = "https://gamefinder-backend-1k11.onrender.com";
+const backendURL = "https://gamefinder-backend-0e8w.onrender.com";
 const placeholder = "https://upload.wikimedia.org/wikipedia/commons/8/8c/No_image_available.svg";
 
 // Estado da aplicação
